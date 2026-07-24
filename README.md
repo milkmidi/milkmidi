@@ -5,8 +5,7 @@
 20 years of frontend engineering experience, deeply rooted in the React / Vue ecosystem. Currently focused on **AI × frontend workflow integration**, helping engineers and enterprise teams unlock the real leverage of AI tools.
 
 
-<!-- ![milkmidi](https://raw.githubusercontent.com/milkmidi/milkmidi/refs/heads/main/kv.webp) -->
-![milkmidi](https://raw.githubusercontent.com/milkmidi/milkmidi/refs/heads/main/milkmidi-cosplay.gif)
+![milkmidi](https://raw.githubusercontent.com/milkmidi/milkmidi/refs/heads/main/milkmidi-cosplay-20260724.gif)
 
 ---
 
